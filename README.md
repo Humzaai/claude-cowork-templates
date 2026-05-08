@@ -156,7 +156,7 @@ Format rules:
 
 ## License
 
-MIT License. Free to use, copy, modify, and share.
+Free to use, copy, modify, and share.
 
 If this helped you, star the repo. It helps others find it.
 
